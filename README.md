@@ -2,7 +2,7 @@
 Hi👋 I’m Joel. I am a passionate **Frontend Developer with Fullstack ambitions!**
 Please have a look at my GitHub. I have also attached my portfolio & email for further contact 👇
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,nextjs,express,mysql,mongodb,sequelize,prisma,tailwind,bootstrap,materialui,powershell,bash,npm,babel,vite,git,netlify,vercel,heroku,html,css,sass,figma,vscode,replit&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,nextjs,express,mysql,mongodb,redux,sequelize,prisma,tailwind,bootstrap,materialui,powershell,bash,npm,babel,vite,git,netlify,vercel,heroku,html,css,sass,figma,vscode,replit&perline=9)](https://skillicons.dev)
 
 - 📫 How to get in contact: joelpereyra1993@gmail.com
 -  📔 Link to my Portfolio: https://www.joelsportfolio.io
