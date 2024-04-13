@@ -1,5 +1,5 @@
 ###
-Hey there! 👋 I'm Joel, a passionate **Fullstack Developer with an insatiable drive for crafting meaningful and innovative digital solutions. My journey into development began with a fascination for the possibilities of technology and has since evolved into a lifelong love for creating valuable user experiences. !**
+Hey there! 👋 I'm Joel, a passionate **Fullstack Software Engineer** with an insatiable drive for crafting meaningful and innovative digital solutions. My journey into development began with a fascination for the possibilities of technology and has since evolved into a lifelong love for creating valuable user experiences.
 
 || Skills ||
 
