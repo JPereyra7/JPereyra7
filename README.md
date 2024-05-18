@@ -8,8 +8,6 @@ Please have a look at my GitHub. I have also attached my stats, portfolio & emai
 
 || Skills ||
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=100&color=2788B3&random=false&width=435&lines=Frontend%3A+Javascript%2C+Typescript;Tools%3A+React%2C+Vue.js%2C+Nuxt%2C+Next.js)](https://git.io/typing-svg)
-
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,nextjs,nuxt,express,mysql,mongodb,redux,sequelize,prisma,cypress,jest,tailwind,bootstrap,materialui,powershell,bash,npm,babel,vite,git,netlify,vercel,heroku,html,css,sass,figma,vscode,replit&perline=9)](https://skillicons.dev) 
 
 || Links ||
