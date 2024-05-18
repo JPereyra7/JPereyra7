@@ -1,7 +1,7 @@
 ###
 Hey there! 👋 I'm Joel, a passionate **Fullstack Software Engineer** with an insatiable drive for crafting meaningful and innovative digital solutions. My journey into development began with a fascination for the possibilities of technology and has since evolved into a lifelong love for creating valuable user experiences. Please have a look at my GitHub. I have also attached my stats, portfolio & email for further contact 👇
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E698A&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BC;I'm+Joel%2C+a+passionate;+Fullstack+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E698A&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BC;I'm+Joel%2C+a+passionate++Fullstack+Software+Engineer)](https://git.io/typing-svg)
 
 [![JPereyra7's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPereyra7&show_icons=true&theme=noctis_minimus )](https://github.com/JPereyra7/github-readme-stats)
 
