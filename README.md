@@ -16,3 +16,5 @@ Please have a look at my GitHub. I have also attached my portfolio & email for f
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPereyra7&show_icons=true&theme=noctis_minimus&card_width=465)](https://github.com/JPereyra7/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+
