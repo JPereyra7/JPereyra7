@@ -9,13 +9,6 @@ Hey there! 👋 I'm Joel, a passionate **Fullstack Software Engineer** with an i
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,nextjs,nuxt,express,mysql,mongodb,redux,sequelize,prisma,cypress,jest,tailwind,bootstrap,materialui,powershell,bash,npm,babel,vite,git,netlify,vercel,heroku,html,css,sass,figma,vscode,replit&perline=9)](https://skillicons.dev) 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 || Links ||
 
 - 📫 How to get in contact: joelpereyra1993@gmail.com
