@@ -8,12 +8,12 @@ Please have a look at my GitHub. I have also attached my stats, portfolio & emai
 
 || Skills ||
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,nextjs,nuxt,express,mysql,mongodb,redux,sequelize,prisma,cypress,jest,tailwind,bootstrap,materialui,powershell,bash,npm,babel,vite,git,netlify,vercel,heroku,html,css,sass,figma,vscode,replit&perline=9)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,nextjs,threejs,nuxt,express,mysql,mongodb,redux,sequelize,prisma,cypress,jest,tailwind,bootstrap,materialui,powershell,bash,npm,babel,vite,git,netlify,vercel,heroku,html,css,sass,figma,vscode,replit&perline=9)](https://skillicons.dev) 
 
 || Links ||
 
 - 📫 How to get in contact: joelpereyra1993@gmail.com
--  📔 Link to my Portfolio: https://www.joelsportfolio.io
+-  📔 Link to my Portfolio: https://joel-pereyra-portfolio-next-js.vercel.app/
 
 
 
