@@ -8,7 +8,7 @@ Please have a look at my GitHub. I have also attached my stats, portfolio & emai
 
 || Skills ||
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,django,react,vue,nodejs,nextjs,threejs,nuxt,express,mysql,mongodb,redux,sequelize,prisma,cypress,jest,tailwind,bootstrap,materialui,powershell,bash,npm,babel,vite,git,netlify,vercel,heroku,html,css,sass,figma,vscode,replit,linux,ubuntu&perline=9)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,react,vue,nodejs,django,nextjs,threejs,nuxt,express,mysql,mongodb,redux,sequelize,prisma,cypress,jest,tailwind,bootstrap,materialui,powershell,bash,npm,babel,vite,git,netlify,vercel,heroku,html,css,sass,figma,vscode,replit,linux,ubuntu&perline=9)](https://skillicons.dev) 
 
 || Links ||
 
