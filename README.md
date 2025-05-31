@@ -4,7 +4,7 @@ Please have a look at my GitHub. I have also attached my stats, portfolio & emai
 
 [![JPereyra7's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPereyra7&show_icons=true&theme=noctis_minimus )](https://github.com/JPereyra7/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPereyra7&hide=html,css,scss&langs_count=20&show_icons=true&theme=noctis_minimus&card_width=465)](https://github.com/JPereyra7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPereyra7&hide=html,css,scss,procfile&langs_count=20&show_icons=true&theme=noctis_minimus&card_width=465)](https://github.com/JPereyra7/github-readme-stats)
 
 || Skills ||
 
